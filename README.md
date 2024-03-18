@@ -37,7 +37,7 @@ The dashboard allows users to visualize and explore various aspects of sales dat
 ![View](https://github.com/VaibhavGit27/Storefully-Annual-Report/blob/main/Images/Channel%20wise%20Sales.png)
 
 ### All Slicers Applied Simultaneously
-![View](https://github.com/VaibhavGit27/Storefully-Annual-Report/blob/main/Images/All%20Filters%20applied%20simultaneously.png)
+![View](https://github.com/VaibhavGit27/Storefully-Annual-Report/blob/main/Images/All%20Filters.png)
 
  ## Findings/Insights
 
