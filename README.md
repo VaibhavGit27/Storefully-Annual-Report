@@ -43,7 +43,7 @@ The dashboard allows users to visualize and explore various aspects of sales dat
 
 After analyzing the Annual Report, the following key findings and insights have been derived:
 
--Women demonstrate a higher purchasing propensity compared to men, accounting for approximately 65% of total purchases.
+- Women demonstrate a higher purchasing propensity compared to men, accounting for approximately 65% of total purchases.
 - The top three states contributing to sales are Maharashtra, Karnataka, and Uttar Pradesh, collectively representing around 35% of total sales.
 - The adult age group of 30-49 years constitutes the highest contribution to sales, accounting for approximately 50% of total purchases.
 - The primary sales channels driving revenue are Amazon, Flipkart, and Myntra, contributing to around 80% of total sales.
